@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saurabhwinchurne
+- 👋 Hi, I’m saurabh
 - 👀 I’m interested in learning web developement
 - 🌱 I’m currently learning flask and django
 - 💞️ I’m looking to collaborate on any web dev project
