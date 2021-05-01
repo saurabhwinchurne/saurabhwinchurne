@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saurabhwinchurne
-- 👀 I’m interested in web developement
+- 👀 I’m interested in learning web developement
 - 🌱 I’m currently learning flask and django
 - 💞️ I’m looking to collaborate on any web dev project
 - 📫 How to reach me saurabhwinchurne@gmail.com
